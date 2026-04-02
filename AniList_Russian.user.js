@@ -19,8 +19,8 @@
 // @connect      shikimori.rip
 // @connect      graphql.anilist.co
 // @license      MIT
-// @downloadURL https://raw.githubusercontent.com/JollanXD/Translat/main/Anilist_Russian.user.js
-// @updateURL https://raw.githubusercontent.com/JollanXD/Translat/main/Anilist_Russian.user.js
+// @downloadURL "https://raw.githubusercontent.com/JollanXD/Translat/main/Anilist_Russian.user.js"
+// @updateURL "https://raw.githubusercontent.com/JollanXD/Translat/main/Anilist_Russian.user.js"
 // ==/UserScript==
 
 (function() {
