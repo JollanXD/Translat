@@ -15,6 +15,8 @@
 // @connect      shikimori.io
 // @connect      shikimori.one
 // @connect      shikimori.me
+// @connect      shikimori.fi
+// @connect      shikimori.rip
 // @connect      graphql.anilist.co
 // @license      MIT
 // @downloadURL https://update.greasyfork.org/scripts/570469/AniList%20Russian%20Translation.user.js
