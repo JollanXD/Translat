@@ -19,8 +19,8 @@
 // @connect      shikimori.rip
 // @connect      graphql.anilist.co
 // @license      MIT
-// @downloadURL https://update.greasyfork.org/scripts/570469/AniList%20Russian%20Translation.user.js
-// @updateURL https://update.greasyfork.org/scripts/570469/AniList%20Russian%20Translation.meta.js
+// @downloadURL https://raw.githubusercontent.com/JollanXD/Translat/main/Anilist Russian.user.js
+// @updateURL https://raw.githubusercontent.com/JollanXD/Translat/main/Anilist Russian.user.js
 // ==/UserScript==
 
 (function() {
