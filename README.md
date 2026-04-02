@@ -13,5 +13,5 @@
 - Перевод основан на словаре и может дополняться
 
 🔹 Установка:
-Просто установите скрипт через Tampermonkey и обновите страницу AniList. [install](https://raw.githubusercontent.com/JollanXD/Translat/main/Anilist Russian.user.js)
+Просто установите скрипт через Tampermonkey и обновите страницу AniList. [install](https://raw.githubusercontent.com/JollanXD/Translat/main/Anilist_Russian.user.js)
 
