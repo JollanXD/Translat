@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         AniList Russian
 // @namespace    http://tampermonkey.net/
-// @version      1.7.0
+// @version      1.8.0
 // @description  Перевод AniList на русский
 // @author       Jollan
 // @match        https://anilist.co/*
@@ -29,7 +29,7 @@
     // --- 1. КОНФИГУРАЦИЯ ---
     const DICT_URL = 'https://raw.githubusercontent.com/JollanXD/Translat/refs/heads/main/Dictionary.json';
     const CACHE_TIME = 24 * 60 * 60 * 1000;
-    const SHIKI_DOMAINS =['shikimori.io', 'shikimori.one', 'shikimori.me', 'shikimori.rip', 'shikimori.fi', 'shikimori.org'];
+    const SHIKI_DOMAINS =['shikimori.io', 'shikimori.one', 'shikimori.me', 'shikimori.rip', 'shikimori.fi'];
 
     let dictionary = {};
     const settings = {
