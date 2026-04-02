@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         AniList Russian
 // @namespace    http://tampermonkey.net/
-// @version      1.4
+// @version      1.5
 // @description  Перевод AniList на русский
 // @author       Jollan
 // @match        https://anilist.co/*
@@ -19,8 +19,8 @@
 // @connect      shikimori.rip
 // @connect      graphql.anilist.co
 // @license      MIT
-// @downloadURL https://raw.githubusercontent.com/JollanXD/Translat/main/Anilist Russian.user.js
-// @updateURL https://raw.githubusercontent.com/JollanXD/Translat/main/Anilist Russian.user.js
+// @downloadURL https://raw.githubusercontent.com/JollanXD/Translat/main/Anilist_Russian.user.js
+// @updateURL https://raw.githubusercontent.com/JollanXD/Translat/main/Anilist_Russian.user.js
 // ==/UserScript==
 
 (function() {
