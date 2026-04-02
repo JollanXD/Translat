@@ -29,7 +29,7 @@
     // --- 1. КОНФИГУРАЦИЯ ---
     const DICT_URL = 'https://raw.githubusercontent.com/JollanXD/Translat/refs/heads/main/Dictionary.json';
     const CACHE_TIME = 24 * 60 * 60 * 1000;
-    const SHIKI_DOMAINS =['shikimori.io', 'shikimori.one', 'shikimori.me', 'shikimori.rip', 'shikimori.fi', 'shikimori.so' ];
+    const SHIKI_DOMAINS =['shikimori.io', 'shikimori.one', 'shikimori.me', 'shikimori.rip', 'shikimori.fi'];
 
     let dictionary = {};
     const settings = {
