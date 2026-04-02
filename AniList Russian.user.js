@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         AniList Russian
 // @namespace    http://tampermonkey.net/
-// @version      1.3
+// @version      1.4
 // @description  Перевод AniList на русский
 // @author       Jollan
 // @match        https://anilist.co/*
